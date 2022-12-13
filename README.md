@@ -1,0 +1,49 @@
+
+![screenshot](./readme/teslaclone.gif)
+
+<div align="center">
+    <img src="./readme/logo_html.png" width="70">
+    <img src="./readme/logo_css.png" width="70">
+    <img src="./readme/logo_vite.png" width="70">
+    &nbsp;
+    <img src="./readme/logo_javascript.png" width="70">
+    &nbsp;
+    &nbsp;
+    <img src="./readme/logo_typescript.png" width="70">
+    &nbsp;
+    <img src="./readme/logo_react.png" width="70">
+</div>
+
+<br>
+
+<br>
+
+# [Rocketseat](https://rocketseat.com.br/)
+
+
+## Tools
+
+[Framer Motion](https://www.framer.com/motion/)  
+
+[styled components](https://styled-components.com/)  
+
+[Google Fonts](https://fonts.google.com/)  
+
+[coolors](https://coolors.co/)  
+
+## Start
+
+```
+yarn add framer-motion styled-components
+```
+
+```
+yarn add -D @types/styled-components
+```
+
+## Run
+
+```
+yarn dev
+```
+
