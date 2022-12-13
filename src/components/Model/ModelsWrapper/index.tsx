@@ -6,7 +6,7 @@ import ModelOverlay from '../ModelOverlay'
 import { Container, OverlaysRoot } from './styles'
 
 interface Props {
-  children: string
+  children: any
 }
 
 const ModelsWrapper: React.FC<Props> = ({ children }) => {
