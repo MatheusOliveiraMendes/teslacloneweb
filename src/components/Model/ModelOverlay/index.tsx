@@ -10,6 +10,7 @@ import { Container } from './styles';
 
 interface Props {
   model: CarModel
+  children: any
 }
 
 type SectionDimensions = Pick<HTMLDivElement, 'offsetTop' | 'offsetHeight'>

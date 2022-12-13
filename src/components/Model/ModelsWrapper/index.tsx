@@ -5,7 +5,11 @@ import ModelOverlay from '../ModelOverlay'
 
 import { Container, OverlaysRoot } from './styles'
 
-const ModelsWrapper: React.FC = ({ children }) => {
+interface Props {
+  children: string
+}
+
+const ModelsWrapper: React.FC<Props> = ({ children }) => {
   const wrapperRef = useRef<HTMLDivElement>(null)
 
   const [registeredModels, setRegisteredModels] = useState<CarModel[]>([])
