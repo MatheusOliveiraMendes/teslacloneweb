@@ -23,30 +23,22 @@
 
 ## Tools
 
-[Axios]()  
+[Framer Motion](https://www.framer.com/motion/)  
 
-[React-toastify]()  
+[styled components](https://styled-components.com/)  
 
-[Socket.io-client]()  
+[Google Fonts](https://fonts.google.com/)  
 
-[Styled-components]()  
+[coolors](https://coolors.co/)  
 
 ## Start
 
 ```
-yarn add axios
+yarn add framer-motion styled-components
 ```
 
 ```
-yarn add react-toastify
-```
-
-```
-yarn add socket.io-client
-```
-
-```
-yarn add styled-components
+yarn add -D @types/styled-components
 ```
 
 ## Run
