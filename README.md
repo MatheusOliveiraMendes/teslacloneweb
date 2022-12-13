@@ -17,8 +17,9 @@
 
 <br>
 
-# [Rocketseat](https://rocketseat.com.br/)
-
+<div align="center">
+:link: https://teslacloneuix.netlify.app
+</div>
 
 ## Tools
 
