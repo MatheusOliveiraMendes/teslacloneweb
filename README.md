@@ -1,6 +1,3 @@
-
-![screenshot](./readme/teslaclone.gif)
-
 <div align="center">
     <img src="./readme/logo_html.png" width="70">
     <img src="./readme/logo_css.png" width="70">
@@ -15,6 +12,8 @@
 </div>
 
 <br>
+
+![screenshot](./readme/teslaclone.gif)
 
 <br>
 
@@ -42,6 +41,13 @@ yarn add -D @types/styled-components
 ```
 
 ## Run
+
+### step 1
+
+```
+npm i
+```
+### step 2
 
 ```
 yarn dev
