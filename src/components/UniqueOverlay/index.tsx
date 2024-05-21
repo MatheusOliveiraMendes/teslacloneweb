@@ -19,22 +19,19 @@ const UniqueOverlay: React.FC = () => {
         <div>
           <ul>
             <li>
-              <a href="#">Model S</a>
+              <a href="#">Vehicles</a>
             </li>
             <li>
-              <a href="#">Model 3</a>
+              <a href="#">Energy</a>
             </li>
             <li>
-              <a href="#">Model X</a>
+              <a href="#">Charging</a>
             </li>
             <li>
-              <a href="#">Model Y</a>
+              <a href="#">Discover</a>
             </li>
             <li>
-              <a href="#">Solar Roof</a>
-            </li>
-            <li>
-              <a href="#">Solar Panels</a>
+              <a href="#">Shop</a>
             </li>
           </ul>
         </div>
