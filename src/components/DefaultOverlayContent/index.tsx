@@ -18,11 +18,12 @@ const DefaultOverlayContent: React.FC<Props> = ({
       </Heading>
 
       <Buttons>
-        <button>Custom Order</button>
-        <button className="white">Existing Inventory</button>
+      <button className="white">Order Now</button>
+      <button>Demo Drive</button>
       </Buttons>
     </Container>
   );
 };
 
 export default DefaultOverlayContent;
+
