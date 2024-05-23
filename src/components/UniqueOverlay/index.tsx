@@ -1,5 +1,8 @@
 import React from 'react';
 import { useTransform } from 'framer-motion';
+import { AiOutlineGlobal, AiOutlineQuestionCircle } from "react-icons/ai";
+import { HiOutlineUserCircle } from "react-icons/hi2";
+
 
 import useWrapperScroll from '../Model/useWrapperScroll';
 
@@ -39,13 +42,13 @@ const UniqueOverlay: React.FC = () => {
         <div>
           <ul>
             <li>
-              <a href="#">Shop</a>
+              <a href="#"> <AiOutlineQuestionCircle size={24} /> </a>
             </li>
             <li>
-              <a href="#">Account</a>
+              <a href="#"> <AiOutlineGlobal size={24} /> </a>
             </li>
             <li>
-              <a href="#">Menu</a>
+              <a href="#"> <HiOutlineUserCircle size={24} /> </a>
             </li>
           </ul>
         </div>
