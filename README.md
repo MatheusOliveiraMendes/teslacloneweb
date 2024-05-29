@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-:link: https://teslacloneuix.netlify.app
+:link: https://webclonetestla.netlify.app
 </div>
 
 ## Tools
