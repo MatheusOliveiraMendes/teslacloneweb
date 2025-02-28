@@ -13,15 +13,15 @@ export const Heading = styled.div`
 
     > h1 {
         font-weight: 500;
-        font-size: 40px;
-        line-height: 48px;
-        color: #393c41;
+        font-size: 72px;
+        line-height: 90px;
+        color: white;
     }
     > h2 {
         font-weight: normal;
-        font-size: 14px;
+        font-size: 24px;
         line-height: 20px;
-        color: #5c5e62;
+        color: white;
     }
 `;
 
@@ -34,9 +34,8 @@ export const Buttons = styled.div`
     margin-bottom: 130px;
 
     > button {
-        background: #1a1720;
-        color: #fff;
-        opacity: 0.8;
+        background:#fff;
+        color: black;
         width: 17rem;
 
         font-size: 12px;
@@ -45,15 +44,14 @@ export const Buttons = styled.div`
         text-transform: uppercase;
 
         padding: 13px 40px;
-        border-radius: 3px;
+        border-radius: 5px;
         border: none;
         outline: 0;
         cursor: pointer;
 
         &.white {
-            background: #fff;
-            color: #1a1720;
-            opacity: 0.65;
+            background:#3457b1;
+            color: #fff;
         }
         & + button {
             margin: 10px 0 0;

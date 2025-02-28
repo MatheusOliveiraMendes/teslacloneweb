@@ -19,7 +19,7 @@ const DefaultOverlayContent: React.FC<Props> = ({
 
       <Buttons>
       <button className="white">Order Now</button>
-      <button>Demo Drive</button>
+      <button>Test Drive</button>
       </Buttons>
     </Container>
   );

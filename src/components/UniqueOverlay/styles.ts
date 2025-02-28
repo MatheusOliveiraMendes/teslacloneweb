@@ -41,7 +41,7 @@ export const Header = styled.header`
 
             a {
                 text-decoration: none;
-                color: #393c41;
+                color: white;
 
                 &:hover {
                     color: #000;
@@ -94,7 +94,7 @@ export const Footer = styled(motion.footer)`
 
             a {
                 text-decoration: none;
-                color: #393c41;
+                color: white;
 
                 &:hover {
                     color: #000;
