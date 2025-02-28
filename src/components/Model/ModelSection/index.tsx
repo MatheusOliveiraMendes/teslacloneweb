@@ -23,7 +23,7 @@ const ModelSection: React.FC<Props> = ({
       registerModel({
         modelName,
         overlayNode,
-        sectionRef: ref
+        sectionRef: ref as React.RefObject<HTMLElement>
       })
     }
   }, [children, modelName, overlayNode, registerModel])

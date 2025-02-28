@@ -34,7 +34,7 @@ const ModelsWrapper: React.FC<Props> = ({ children }) => {
   return (
     <ModelsContext.Provider
       value={{
-        wrapperRef,
+        wrapperRef: wrapperRef as React.RefObject<HTMLElement>,
         registeredModels,
         registerModel,
         unregisterModel,
