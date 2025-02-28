@@ -53,5 +53,3 @@ npm i
 ```
 yarn dev
 ```
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fb40ed9d-be5d-4648-974f-d62e26b9a2e0/deploy-status)](https://app.netlify.com/sites/webclonetestla/deploys)
